@@ -1,0 +1,6 @@
+alias ls='ls -F'
+alias dir='ls -Fla'
+alias du='du -h'
+alias h='history'
+alias pod='pod --verbose'
+
