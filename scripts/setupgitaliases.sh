@@ -10,8 +10,6 @@ git config --global alias.unstashfile '!f() { git checkout stash@{$1} -- $2 ; };
 git config --global alias.cancelmerge 'reset --merge ORIG_HEAD'
 git config --global alias.listancestors 'branch --merged'
 git config --global alias.undolastcommit 'reset HEAD~'
-#git config --global alias.setcodefreeze '!f() { git config --global ASU.CodeFreezeBranch $1 ; };f'
-#git config --global alias.unsetcodefreeze "config --global --unset ASU.CodeFreezeBranch"
 git config --global alias.aliases "config --get-regexp '^alias\.'"
 
 
