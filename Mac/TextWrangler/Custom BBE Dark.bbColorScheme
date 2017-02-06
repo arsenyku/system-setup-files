@@ -7,7 +7,7 @@
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.65, 0.44, 0.23, 1.00)</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>hsla(0.50, 0.33, 0.46, 1.00)</string>
+	<string>hsla(0.67, 0.23, 0.43, 1.00)</string>
 	<key>InvisibleOthersColor</key>
 	<string>rgba(0.986247,0.055064,0.280734,1.000000)</string>
 	<key>InvisibleSpacesColor</key>
